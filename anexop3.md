@@ -79,7 +79,7 @@ Aca esta el desarrollo en detalle:
     
 http://laplace.us.es/wiki/index.php/Cilindro_que_rueda_por_una_pendiente    
 
-No pretendo que se entienda toda la cuenta, solo que les quede la intuicion que explique antes a partir de consideraciones energeticas. En definitiva, despues de hacer las consideraciones pertinentes uno puede despejar $g$ para un cilindro macizo:
+No pretendo que se entienda toda la cuenta, solo que les quede la intuicion que explique antes a partir de consideraciones energeticas. En definitiva, despues de hacer las consideraciones pertinentes uno puede despejar **g** para un cilindro macizo:
     
 
 <img src="https://render.githubusercontent.com/render/math?math=g=\frac{3}{2} \frac{a}{sin(\alpha)}">
