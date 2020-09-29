@@ -85,5 +85,6 @@ No pretendo que se entienda toda la cuenta, solo que les quede la intuicion que 
 <img src="https://render.githubusercontent.com/render/math?math=g=\frac{3}{2} \frac{a}{sin(\alpha)}">
 
 
-El cilindro de su experimento era macizo?
+El cilindro de su experimento era macizo? O era hueco? A que comportamiento se parece mas?
 
+![image.png](https://i.imgur.com/ZEpQTl6.gif)
